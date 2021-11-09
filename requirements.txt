@@ -1,0 +1,6 @@
+numpy
+requests
+nlpaug
+torch==1.9.0
+transformers>=4.11.3
+sentencepiece
