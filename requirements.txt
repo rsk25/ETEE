@@ -4,3 +4,4 @@ nlpaug
 torch==1.8.1+cu111
 transformers>=4.11.3
 sentencepiece
+nltk
